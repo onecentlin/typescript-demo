@@ -1,0 +1,8 @@
+{
+  "name": "typescript-demo",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "vue": "registry:dt/vue#1.0.21+20160423143248"
+  }
+}
